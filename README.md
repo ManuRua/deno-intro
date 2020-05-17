@@ -1,2 +1,1 @@
-# deno-intro
-First steps with Deno, the new NodeJS.
+# 🦕 First steps with Deno, the new NodeJS.
